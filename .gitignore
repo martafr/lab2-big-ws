@@ -1,5 +1,9 @@
 .gradle
 .idea
+.classpath
+.project
+.settings
+src/main/resources/application.properties
 build/
 
 # Ignore Gradle GUI config
